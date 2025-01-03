@@ -1,7 +1,5 @@
 ### HI! 👋
 
-<p align="center"><img src="https://raw.githubusercontent.com/mudachyo/mudachyo/output/github-contribution-grid-snake.svg"></p>
-
 <div style="display: flex; gap: 10px;">
   <img height=193 src="https://github-readme-stats.vercel.app/api?username=TOR968&show_icons=true&theme=radical" />
   <img height=193 src="https://github-readme-stats.vercel.app/api/top-langs?username=TOR968&layout=compact&langs_count=8&card_width=320&theme=radical" />

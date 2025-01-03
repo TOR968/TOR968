@@ -9,7 +9,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake Animation
+      - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3.2.0
         with:
           # github user name to read the contribution graph from (**required**)

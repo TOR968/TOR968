@@ -3,7 +3,7 @@
 [![Channel](https://img.shields.io/badge/Channel_|_Join_US-141321?style=for-the-badge&logo=telegram&logoColor=d83b7d)](https://t.me/tor_dev)
 [![Chat](https://img.shields.io/badge/Chat-141321?style=for-the-badge&logo=telegram&logoColor=d83b7d)](https://t.me/tor_dev_chat)
 [![Patreon](https://img.shields.io/badge/Patreon-141321?style=for-the-badge&logo=patreon&logoColor=d83b7d)](https://www.patreon.com/c/TOR968)
-[![Tether](https://img.shields.io/badge/crypto-141321?style=for-the-badge&logo=bitcoin&logoColor=d83b7d)](https://support-me-ruby.vercel.app)
+[![Tether](https://img.shields.io/badge/donate_crypto-141321?style=for-the-badge&logo=Tether&logoColor=d83b7d)](https://support-me-ruby.vercel.app)
 
 ---
 
